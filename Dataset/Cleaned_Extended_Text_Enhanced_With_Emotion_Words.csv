@@ -1,0 +1,321 @@
+Sentence,Label,Emotion
+I love the way this turned out!,Positive,Happy
+I'm really annoyed with this.,Negative,Angry
+I don't feel strongly about this.,Neutral,Neutral
+I'm really upset about this.,Negative,Angry
+Everything is going so well!,Positive,Happy
+This is quite ordinary.,Neutral,Neutral
+This is just fine.,Neutral,Neutral
+I'm in a great mood!,Positive,Happy
+This is just awful.,Negative,Angry
+This news made my day!,Positive,Happy
+This is so frustrating.,Negative,Angry
+I feel neutral about this.,Neutral,Neutral
+This is awesome!,Positive,Positive
+This news made my day!,Positive,Happy
+This is an average day.,Neutral,Neutral
+So frustrating...,Negative,Frustrated
+I'm feeling so-so.,Neutral,Neutral
+This situation is pretty neutral.,Neutral,Neutral
+I'm indifferent about this.,Neutral,Neutral
+I can't stand this.,Negative,Angry
+Life is good.,Positive,Relaxed
+This is a standard outcome.,Neutral,Neutral
+I'm really annoyed with this.,Negative,Angry
+Everything is going so well!,Positive,Happy
+This is just fine.,Neutral,Neutral
+I'm thrilled with the outcome!,Positive,Happy
+I'm really annoyed with this.,Negative,Angry
+I hate how this turned out.,Negative,Angry
+Everything is going wrong.,Negative,Angry
+This situation is terrible.,Negative,Angry
+I can't believe this happened.,Negative,Angry
+I'm feeling okay.,Neutral,Neutral
+I hate how this turned out.,Negative,Angry
+Not happy with this.,Negative,Angry
+This is absolutely amazing!,Positive,Happy
+This is a nightmare.,Negative,Angry
+I'm extremely pleased with this!,Positive,Happy
+I don't feel strongly about this.,Neutral,Neutral
+This is just awful.,Negative,Angry
+This is just normal.,Neutral,Neutral
+I feel so angry right now.,Negative,Angry
+This is a standard outcome.,Neutral,Neutral
+I'm overjoyed with this!,Positive,Happy
+I'm thrilled with the outcome!,Positive,Happy
+I couldn't be happier!,Positive,Happy
+I couldn't be happier!,Positive,Happy
+I hate how this turned out.,Negative,Angry
+This is neither good nor bad.,Neutral,Neutral
+I'm overjoyed with this!,Positive,Happy
+This is beyond disappointing.,Negative,Angry
+This is so delightful!,Positive,Happy
+This is a disaster.,Negative,Angry
+Today is just another day.,Neutral,Neutral
+I'm really annoyed with this.,Negative,Angry
+This is the worst day ever.,Negative,Angry
+I'm extremely pleased with this!,Positive,Happy
+Everything is going wrong.,Negative,Angry
+I have no strong feelings about this.,Neutral,Neutral
+I feel so angry right now.,Negative,Angry
+I'm really upset about this.,Negative,Angry
+This is so frustrating.,Negative,Angry
+Everything is going wrong.,Negative,Angry
+This is a nightmare.,Negative,Angry
+I don't feel strongly about this.,Neutral,Neutral
+I'm feeling great today!,Positive,Happy
+This is pure bliss!,Positive,Happy
+This is just awful.,Negative,Angry
+This is the best thing ever!,Positive,Happy
+I'm extremely pleased with this!,Positive,Happy
+I can't believe this happened.,Negative,Angry
+I'm in a great mood!,Positive,Happy
+I'm feeling so-so.,Neutral,Neutral
+I feel so angry right now.,Negative,Angry
+What a wonderful surprise!,Positive,Happy
+I feel so angry right now.,Negative,Angry
+This is a disaster.,Negative,Angry
+I'm in a great mood!,Positive,Happy
+This is beyond disappointing.,Negative,Angry
+Feeling fantastic today!,Positive,Happy
+This is the best thing ever!,Positive,Happy
+Feeling fantastic today!,Positive,Happy
+I hate how this turned out.,Negative,Angry
+I couldn't be happier!,Positive,Happy
+I am so sad.,Negative,Sad
+This is so delightful!,Positive,Happy
+This is neither good nor bad.,Neutral,Neutral
+This is the worst day ever.,Negative,Angry
+This is quite ordinary.,Neutral,Neutral
+I love this!,Positive,Happy
+I feel neutral about this.,Neutral,Neutral
+Why is this happening?,Negative,Sad
+This news made my day!,Positive,Happy
+I'm feeling okay.,Neutral,Neutral
+I'm indifferent about this.,Neutral,Neutral
+This is pure bliss!,Positive,Happy
+I don't feel strongly about this.,Neutral,Neutral
+This situation is pretty neutral.,Neutral,Neutral
+This is an average day.,Neutral,Neutral
+I'm so excited about this!,Positive,Happy
+Feeling fantastic today!,Positive,Happy
+I can't believe this happened.,Negative,Angry
+I'm extremely pleased with this!,Positive,Happy
+This is the best thing ever!,Positive,Happy
+This is a standard outcome.,Neutral,Neutral
+I'm so excited about this!,Positive,Happy
+I'm overjoyed with this!,Positive,Happy
+This is beyond disappointing.,Negative,Angry
+This is just fine.,Neutral,Neutral
+This is the worst day ever.,Negative,Angry
+Everything is going wrong.,Negative,Angry
+This is so frustrating.,Negative,Angry
+Today is just another day.,Neutral,Neutral
+Everything is going wrong.,Negative,Angry
+This news made my day!,Positive,Happy
+I'm so excited about this!,Positive,Happy
+I feel neutral about this.,Neutral,Neutral
+This situation is terrible.,Negative,Angry
+This is pure bliss!,Positive,Happy
+This is just normal.,Neutral,Neutral
+Everything is going so well!,Positive,Happy
+This is terrible...,Negative,Angry
+I feel so angry right now.,Negative,Angry
+I'm really annoyed with this.,Negative,Angry
+Everything is going so well!,Positive,Happy
+This is quite ordinary.,Neutral,Neutral
+This is beyond disappointing.,Negative,Angry
+This is the best thing ever!,Positive,Happy
+This is a disaster.,Negative,Angry
+I'm so excited about this!,Positive,Happy
+I feel so angry right now.,Negative,Angry
+Feeling amazing!,Positive,Happy
+I'm so excited about this!,Positive,Happy
+Everything is going wrong.,Negative,Angry
+I feel neutral about this.,Neutral,Neutral
+This is absolutely amazing!,Positive,Happy
+What a wonderful surprise!,Positive,Happy
+This is beyond disappointing.,Negative,Angry
+I'm indifferent about this.,Neutral,Neutral
+I love the way this turned out!,Positive,Happy
+This is so boring.,Negative,Unhappy
+I can't stand this.,Negative,Angry
+I don't feel strongly about this.,Neutral,Neutral
+I'm so disappointed.,Negative,Angry
+I love the way this turned out!,Positive,Happy
+I have no strong feelings about this.,Neutral,Neutral
+This news made my day!,Positive,Happy
+This is an average day.,Neutral,Neutral
+Everything is going so well!,Positive,Happy
+This situation is terrible.,Negative,Angry
+This is so delightful!,Positive,Happy
+This situation is pretty neutral.,Neutral,Neutral
+This situation is terrible.,Negative,Angry
+I'm feeling okay.,Neutral,Neutral
+This is so frustrating.,Negative,Angry
+I'm thrilled with the outcome!,Positive,Happy
+Everything is going so well!,Positive,Happy
+This is beyond disappointing.,Negative,Angry
+This is a nightmare.,Negative,Angry
+I'm overjoyed with this!,Positive,Happy
+This is neither good nor bad.,Neutral,Neutral
+I love the way this turned out!,Positive,Happy
+This is a disaster.,Negative,Angry
+This situation is pretty neutral.,Neutral,Neutral
+This is a nightmare.,Negative,Angry
+I'm indifferent about this.,Neutral,Neutral
+I feel neutral about this.,Neutral,Neutral
+Today is just another day.,Neutral,Neutral
+This is quite ordinary.,Neutral,Neutral
+This makes me smile.,Positive,Happy
+I'm so disappointed.,Negative,Angry
+This is just fine.,Neutral,Neutral
+This is the best thing ever!,Positive,Happy
+I'm thrilled with the outcome!,Positive,Happy
+This is pure bliss!,Positive,Happy
+I'm feeling okay.,Neutral,Neutral
+This is neither here nor there.,Neutral,Neutral
+I can't stand this.,Negative,Angry
+Everything is fine.,Neutral,Content
+I can't stand this.,Negative,Angry
+What a wonderful surprise!,Positive,Happy
+Could be better.,Neutral,Neutral
+This situation is terrible.,Negative,Angry
+This news made my day!,Positive,Happy
+What a disaster.,Negative,Afraid
+I'm in a great mood!,Positive,Happy
+I'm in a great mood!,Positive,Happy
+This is the worst day ever.,Negative,Angry
+This is neither here nor there.,Neutral,Neutral
+Feeling fantastic today!,Positive,Happy
+I'm really annoyed with this.,Negative,Angry
+I'm feeling so-so.,Neutral,Neutral
+I have no strong feelings about this.,Neutral,Neutral
+I'm so disappointed.,Negative,Angry
+This is just fine.,Neutral,Neutral
+This is neither here nor there.,Neutral,Neutral
+This is just normal.,Neutral,Neutral
+I love the way this turned out!,Positive,Happy
+This is a disaster.,Negative,Angry
+I'm really upset about this.,Negative,Angry
+This situation is terrible.,Negative,Angry
+I'm so disappointed.,Negative,Angry
+This is a standard outcome.,Neutral,Neutral
+I love the way this turned out!,Positive,Happy
+This is neither good nor bad.,Neutral,Neutral
+Feeling fantastic today!,Positive,Happy
+I'm thrilled with the outcome!,Positive,Happy
+This situation is pretty neutral.,Neutral,Neutral
+What a wonderful surprise!,Positive,Happy
+I hate how this turned out.,Negative,Angry
+This is just normal.,Neutral,Neutral
+This is an average day.,Neutral,Neutral
+I'm feeling okay.,Neutral,Neutral
+This is so delightful!,Positive,Happy
+This is the worst day ever.,Negative,Angry
+I'm very disappointed.,Negative,Disappointed
+I can't believe this happened.,Negative,Angry
+I'm really upset about this.,Negative,Angry
+I'm really upset about this.,Negative,Angry
+This is the worst day ever.,Negative,Angry
+I can't believe this happened.,Negative,Angry
+This is just fine.,Neutral,Neutral
+I'm feeling okay.,Neutral,Neutral
+Absolutely thrilled!,Positive,Happy
+This situation is pretty neutral.,Neutral,Neutral
+This is the worst day ever.,Negative,Angry
+Everything is going wrong.,Negative,Angry
+Today is just another day.,Neutral,Neutral
+I'm thrilled with the outcome!,Positive,Happy
+This is just normal.,Neutral,Neutral
+This is just awful.,Negative,Angry
+This is pure bliss!,Positive,Happy
+This is an average day.,Neutral,Neutral
+This is a nightmare.,Negative,Angry
+I'm in a great mood!,Positive,Happy
+What a wonderful surprise!,Positive,Happy
+I'm overjoyed with this!,Positive,Happy
+I'm overjoyed with this!,Positive,Happy
+I hate how this turned out.,Negative,Angry
+I'm so excited about this!,Positive,Happy
+This is so delightful!,Positive,Happy
+This is so frustrating.,Negative,Angry
+I have no strong feelings about this.,Neutral,Neutral
+This is neither here nor there.,Neutral,Neutral
+This is a nightmare.,Negative,Angry
+Today is just another day.,Neutral,Neutral
+This is the best thing ever!,Positive,Happy
+I couldn't be happier!,Positive,Happy
+This situation is pretty neutral.,Neutral,Neutral
+This is an average day.,Neutral,Neutral
+This is neither here nor there.,Neutral,Neutral
+This is so frustrating.,Negative,Angry
+This is an average day.,Neutral,Neutral
+Today is just another day.,Neutral,Neutral
+I'm feeling so-so.,Neutral,Neutral
+I'm feeling so-so.,Neutral,Neutral
+Today is just another day.,Neutral,Neutral
+I can't stand this.,Negative,Angry
+This is neither good nor bad.,Neutral,Neutral
+I feel so angry right now.,Negative,Angry
+I'm really upset about this.,Negative,Angry
+This is a disaster.,Negative,Angry
+This is so frustrating.,Negative,Angry
+I'm in a great mood!,Positive,Happy
+Feeling fantastic today!,Positive,Happy
+This is a disaster.,Negative,Angry
+I can't stand this.,Negative,Angry
+Best day ever!,Positive,Joyful
+What a wonderful surprise!,Positive,Happy
+I'm feeling so-so.,Neutral,Neutral
+I couldn't be happier!,Positive,Happy
+I hate how this turned out.,Negative,Angry
+This is just awful.,Negative,Angry
+I don't feel strongly about this.,Neutral,Neutral
+I'm indifferent about this.,Neutral,Neutral
+I'm extremely pleased with this!,Positive,Happy
+This is neither here nor there.,Neutral,Neutral
+I'm so disappointed.,Negative,Angry
+This is so delightful!,Positive,Happy
+Feeling fantastic today!,Positive,Happy
+I'm so proud of you!,Positive,Happy
+This is quite ordinary.,Neutral,Neutral
+This is quite ordinary.,Neutral,Neutral
+I'm feeling so-so.,Neutral,Neutral
+I'm indifferent about this.,Neutral,Neutral
+I couldn't be happier!,Positive,Happy
+This is neither here nor there.,Neutral,Neutral
+This news made my day!,Positive,Happy
+This is just fine.,Neutral,Neutral
+I'm really upset about this.,Negative,Angry
+What a wonderful surprise!,Positive,Happy
+This is absolutely amazing!,Positive,Happy
+This is just normal.,Neutral,Neutral
+Everything is going so well!,Positive,Happy
+I can't believe this happened.,Negative,Angry
+I have no strong feelings about this.,Neutral,Neutral
+This is absolutely amazing!,Positive,Happy
+This is pure bliss!,Positive,Happy
+I feel neutral about this.,Neutral,Neutral
+This is absolutely amazing!,Positive,Happy
+This is a standard outcome.,Neutral,Neutral
+I don't feel strongly about this.,Neutral,Neutral
+I can't believe this happened.,Negative,Angry
+I'm feeling okay.,Neutral,Neutral
+I'm thrilled with the outcome!,Positive,Happy
+I'm so excited about this!,Positive,Happy
+This is absolutely amazing!,Positive,Happy
+I couldn't be happier!,Positive,Happy
+I'm so disappointed.,Negative,Angry
+I'm so disappointed.,Negative,Angry
+This situation is terrible.,Negative,Angry
+This is neither good nor bad.,Neutral,Neutral
+I can't believe it!,Negative,Shocked
+This is the best thing ever!,Positive,Happy
+This is a standard outcome.,Neutral,Neutral
+I have no strong feelings about this.,Neutral,Neutral
+This is absolutely amazing!,Positive,Happy
+I'm extremely pleased with this!,Positive,Happy
+I'm indifferent about this.,Neutral,Neutral
+This is just awful.,Negative,Angry
+This is neither good nor bad.,Neutral,Neutral
